@@ -1,5 +1,6 @@
 public interface IGraph extends com.touchgraph.graphlayout.DrawableGraph
 {
+	
 	/**
 	 * Returns the number of vertices in the graph.
 	 */
